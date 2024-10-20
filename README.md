@@ -27,7 +27,7 @@
 <img src="https://cdn-icons-png.flaticon.com/128/2772/2772123.png" loading="lazy" alt="sql " title="sql " width="50" height="50">
 
 ## Banco de Dados 
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968364.png" loading="lazy" alt="servidor sql " title="servidor sql " width="80" height="80">
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968306.png" loading="lazy" alt="Sql server " title="Sql server " width="70" height="70">
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -37,3 +37,5 @@
 ![Jupiter](https://img.shields.io/badge/Jupyter%20-696969?style=for-the-badge&logo=Jupyter&logoColor=Jupyter)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-f3cf18?style=for-the-badge&logo=Power-BI-code&logoColor=#ffff00)
+
+<img loading="lazy" src="https://cdn.icon-icons.com/icons2/2699/PNG/96/databricks_logo_icon_169299.png" title="Databricks, logo  Icon Free" alt="Databricks, logo Icon">
